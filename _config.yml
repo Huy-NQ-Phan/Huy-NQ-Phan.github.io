@@ -21,9 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "newavt"
   name             : "Huy Nguyen-Quoc Phan"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Ph.D. in Materials"
   location         : "Earth"
   employer         : "Nagoya University"
