@@ -12,9 +12,9 @@ title                    : "Huy Phan / My page"
 title_separator          : "-"
 name                     : &name "Huy Nguyen-Quoc Phan"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://huy-nq-phan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://huy-nq-phan.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "newavt"
   name             : "Huy Nguyen-Quoc Phan"
-  pronouns         : "he/him"  
-  bio              : "Ph.D. in Materials"
+  pronouns         : "Ph.D. in Materials"  
+  bio              : "Research Enthusiast"
   location         : "Earth"
   employer         : "Nagoya University"
   uri              : # URL
