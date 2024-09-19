@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-123 (/images/taiwanflag.ico)
+123 (/images/twicon-32x32.png)
 
 A data-driven personal website
 ======
