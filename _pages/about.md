@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-123 (/images/twicon-32x32.png)
+123 ![twflag](/images/twicon-32x32.png)
 
 A data-driven personal website
 ======
