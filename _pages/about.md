@@ -14,11 +14,3 @@ I completed my Bachelor’s degree in Inorganic Chemistry, majoring in [Chemical
 I am passionate about research and aim to be an interdisciplinary researcher, combining chemistry and materials science to address challenges in energy and environmental sustainability. My current research interests include using electrochemical and photocatalysis methods for waste and wastewater treatment. In my postdoctoral work, I am also exploring lithium metal batteries. In addition to my core expertise, I enjoy expanding my skills in computational chemistry, academic graphic design, data analysis, and statistics, leveraging technology to enhance my research.
 
 Outside of the lab, I love playing sports, especially soccer, and I’m also a fan of esports. I’m always eager to connect and collaborate with others who share the same vision and passion. If you would like to get in touch, feel free to leave me a message!
-
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/profile.png)
-
-For more info
-------
-123
