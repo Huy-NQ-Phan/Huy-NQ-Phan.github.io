@@ -11,9 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Feng Chia University**,Taichung, Taiwan
+**Ph.D.** in Materials Science and Engineering, 2024
+  _Valedictorian_
+  Dissertation: "Sustainable Development for Electrochemical Approaches to Waste and Wastewater Treatment"
+  Supervisor: Prof. Hoang-Jyh Leu
+  Co-Supervisor: Prof. Kuo-Feng Chiu
+
+**M.S.** in Green Energy Science and Technology, 2021
+  _Valedictorian_
+  Thesis: "Using ATO-based Surface Coatings for Green Plastic Applications"
+  Supervisor: Prof. Hoang-Jyh Leu
+
+* **Ton Duc Thang University**
+**B.S.** in Chemical Engineering, 2019
+  Thesis: "Design Wastewater Treatment System for Electronics Industry"
+  Advisor: Dr. Thien-Khanh Tran
+
 
 Work experience
 ======
