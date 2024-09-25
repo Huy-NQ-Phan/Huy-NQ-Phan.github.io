@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **Feng Chia University**, Taichung, Taiwan
-  * <br>**Ph.D.** in Materials Science and Engineering, 2024
+  * **Ph.D.** in Materials Science and Engineering, 2024
 <br>_Valedictorian_
 <br>Dissertation: "Sustainable Development for Electrochemical Approaches to Waste and Wastewater Treatment"
 <br>Supervisor: Prof. Hoang-Jyh Leu
@@ -24,7 +24,7 @@ Education
 <br>Supervisor: Prof. Hoang-Jyh Leu
 
 * **Ton Duc Thang University**, Ho Chi Minh, Viet Nam
-<br>**B.S.** in Chemical Engineering, 2019
+  * **B.S.** in Chemical Engineering, 2019
 <br>Thesis: "Design Wastewater Treatment System for Electronics Industry"
 <br>Supervisor: Dr. Thien-Khanh Tran
 
