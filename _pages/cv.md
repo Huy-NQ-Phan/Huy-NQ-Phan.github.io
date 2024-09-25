@@ -13,18 +13,15 @@ Education
 ======
 * **Feng Chia University**, Taichung, Taiwan
 <br>**Ph.D.** in Materials Science and Engineering, 2024
-  <br>_Valedictorian_
-  <br>Dissertation: "Sustainable Development for Electrochemical Approaches to Waste and Wastewater Treatment"
-  <br>Supervisor: Prof. Hoang-Jyh Leu
-  <br>Co-Supervisor: Prof. Kuo-Feng Chiu
+    <br>_Valedictorian_
+    <br>Dissertation: "Sustainable Development for Electrochemical Approaches to Waste and Wastewater Treatment"
+    <br>Supervisor: Prof. Hoang-Jyh Leu
+    <br>Co-Supervisor: Prof. Kuo-Feng Chiu
 
   **M.S.** in Green Energy Science and Technology, 2021
-
-  _Valedictorian_
-
-  Thesis: "Using ATO-based Surface Coatings for Green Plastic Applications"
-
-  Supervisor: Prof. Hoang-Jyh Leu
+    _Valedictorian_
+    Thesis: "Using ATO-based Surface Coatings for Green Plastic Applications"
+    Supervisor: Prof. Hoang-Jyh Leu
 
 * **Ton Duc Thang University**, Ho Chi Minh, Viet Nam
 **B.S.** in Chemical Engineering, 2019
