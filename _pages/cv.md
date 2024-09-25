@@ -19,7 +19,7 @@ Education
     <br>Co-Supervisor: Prof. Kuo-Feng Chiu
 
   **M.S.** in Green Energy Science and Technology, 2021
-    _Valedictorian_
+  <br>  _Valedictorian_
     Thesis: "Using ATO-based Surface Coatings for Green Plastic Applications"
     Supervisor: Prof. Hoang-Jyh Leu
 
