@@ -10,4 +10,4 @@ author_profile: true
 
 ## STEM Guide 
 * 2019-2021 - Green Energy Development Center, Feng Chia University, Taiwan.
-  * Designed and guided do-it-yourself experiments in renewable energy for visiting students.    
+<br>Designed and guided do-it-yourself experiments in renewable energy for visiting students.    
