@@ -1,7 +1,7 @@
 ---
-title: "Publications"
-permalink: /publications/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 ---
 
-## fhfg
+## fhfg teaching
