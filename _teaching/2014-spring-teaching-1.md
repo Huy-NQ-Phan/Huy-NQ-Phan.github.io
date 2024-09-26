@@ -4,14 +4,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## fhfg teaching
+## Teaching Assistant
+* Fall 2023 - General course, Feng Chia University, Taiwan.
+* Spring 2023 - Plasma diagnostics, Department of Materials Science and Engineering, Feng Chia University, Taiwan.
 
-## fg
-
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+## STEM Guide 
+* 2019-2021 - Green Energy Development Center, Feng Chia University, Taiwan.
+  * Designed and guided do-it-yourself experiments in renewable energy for visiting students.    
