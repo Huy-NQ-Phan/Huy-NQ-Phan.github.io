@@ -48,29 +48,26 @@ Microsoft Office Suite, Origin, etc.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Green Energy Development Center**, Feng Chia University, Taiwan
+  * **Research Assistant**, 2019-2024
+	<br>Designed an electrolyzer for multifunctional fiber fabrication and hydrogen production investigation (1
+published article).
+	<br>Explored a treatment system merging anaerobic and electrochemical methods for high-strength
+wastewater, also studying hydrogen production (1 published article).
+	<br>Researched advanced oxidation process for pharmaceutical wastewater treatment with process
+optimization using response surface methodology (1 published article).
+	<br>Developed PVDF/TiO2 composites combined with electrooxidation for treating dyeing wastewater (1
+article under review).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **R&D Department**, Evermore Chemical, Taiwan
+  * **R&D Intern**, 2021
+	<br>Developed new PU polymer products, conducted pilot-scale assessments prior to manufacturing.
+	<br>Analyzed polymer characterizations.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **First Solar Manufacturing**, Viet Nam
+  * **Manufacturing Technician**, 2018-2019
+  <br>Monitoring the operation of automated thin-film solar panel manufacturing.
+	<br>Analyzing and processing data using SQL.
 
 Publications
 ======
