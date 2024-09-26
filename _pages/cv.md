@@ -87,9 +87,7 @@ ABBS-International Conference on Biohydrogen and Bioprocesses, Taichung, Taiwan,
 
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  
   
 Selected awards and honors
 ======
