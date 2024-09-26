@@ -20,7 +20,7 @@ Education
 
   * **M.S.** in Green Energy Science and Technology, 2021
 <br>_Valedictorian_
-<br>Thesis: "Using ATO-based Surface Coatings for Green Plastic Applications"
+<br>Thesis: "Using ATO-based SurfaceCoatings for Green Plastic Applications"
 <br>Supervisor: Prof. Hoang-Jyh Leu
 
 * **Ton Duc Thang University**, Ho Chi Minh, Viet Nam
@@ -71,22 +71,41 @@ article under review).
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publicationsreversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conference presentations 
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+* “Enhancing Dye Wastewater Treatment: A Sequential Electrooxidation and PVDF/TiO2 Photocatalysis Approach
+Using Response Surface Methodology”, International Conference on Sustainable Energy and Green Technology,
+Ho Chi Minh, Viet Nam, December 2023.
+* “Using solar energy for pineapple leaf treatment with hydrogen product”, International Conference on Pollution
+Prevention and Clean Technologies, New Delhi, India, December 2021.
+* “The surface coating on plastic substrates and commercial insulation paper for green building application”,
+ABBS-International Conference on Biohydrogen and Bioprocesses, Taichung, Taiwan, December 202
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Selected awards and honors
 ======
-* Currently signed in to 43 different slack teams
+* Ministry of Science and Technology Scholarship for Excellence throughout the Ph.D. program, Grant
+number: MOST 110-2926-I-035-001-MY4, 2021-2024.
+* Highest honors, ranking first in both M.S. and Ph.D. programs, Feng Chia University, Taiwan.
+* Certificate by The Phi Tau Phi Scholastic Honor Society of Taiwan, Feng Chia University, Taiwan.
+* Best oral presentation at the International Conference on Pollution Prevention and Clean Technologies, 2021.
+* Champion of Oral Session at ABBS-International Conference on Biohydrogen and Bioprocesses, 2020.
+
+Selected awards and honors
+======
+* Taught undergraduate students in a summer class on renewable energy topics at Ton Duc Thang University,
+Viet Nam on behalf of the Green Energy Development Center, Feng Chia University, Taiwan, 2022.
+* Led a team to the semi-final stage of APEC YES challenge on Green Synergy Solutions for Green Energy,
+2021.
+* Designed DIY experiments and taught lessons to elementary students on SDGs topics, Green Energy
+Development Center, Feng Chia University, Taiwan, 2019-2021.
+* Served as technical staff at APEC international conferences, 2019&2020.
