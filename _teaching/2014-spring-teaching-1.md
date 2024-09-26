@@ -1,12 +1,10 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "Feng Chia University, Department of Finance"
-date: 2014-01-04
-location: "Taichung, Taiwan"
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
 ---
+
+## fhfg teaching
 
 ## fg
 
