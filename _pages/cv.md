@@ -100,7 +100,7 @@ number: _MOST 110-2926-I-035-001-MY4_, 2021-2024.
 * Best oral presentation at the International Conference on Pollution Prevention and Clean Technologies, 2021.
 * Champion of Oral Session at ABBS-International Conference on Biohydrogen and Bioprocesses, 2020.
 
-Extracurrucular activities
+Extracurricular activities
 ======
 * Taught undergraduate students in a summer class on renewable energy topics at Ton Duc Thang University,
 Viet Nam on behalf of the Green Energy Development Center, Feng Chia University, Taiwan, 2022.
