@@ -21,7 +21,7 @@ repository               : "https://huy-nq-phan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "newavt1"
+  avatar           : "newavt"
   name             : "Huy Nguyen-Quoc Phan"
   pronouns         : "Ph.D. in Materials"  
   bio              : "Research Enthusiast"
