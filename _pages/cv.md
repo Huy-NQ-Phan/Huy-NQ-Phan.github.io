@@ -28,6 +28,23 @@ Education
 <br>Thesis: "Design Wastewater Treatment System for Electronics Industry"
 <br>Supervisor: Dr. Thien-Khanh Tran
 
+Research interests
+======
+* Electrochemistry
+* Material synthesis
+* Advanced oxidation 
+* Energy storage
+
+Skills
+======
+* Electrochemistry: CV, EIS, zeta potential, electrode/electrolyte modification and fabrication, cell design,
+redox reactions.
+* Inorganic synthesis: precipitation, deposition, sol-gel method, hydrothermal, electrochemical, microwave-
+assisted.
+* Polymer characteristic: viscosity, elasticity, solidification, permeability and contact angle testing.
+* Analytical instrument: XRD, SEM, TEM, XPS, TGA, FTIR, UV-Vis, GC, Raman, particle size, etc.
+* Software Proficiency: MATLAB (deep learning), CAD, Materials Studio, Design-Expert, LCA, Latex,
+Microsoft Office Suite, Origin, etc.
 
 Work experience
 ======
