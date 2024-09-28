@@ -33,7 +33,7 @@ Research interests
 * Electrochemistry
 * Material synthesis
 * Advanced oxidation 
-* Energy storage
+* Energy storage 
 
 Skills
 ======
@@ -71,9 +71,7 @@ article under review).
 
 Publications
 ======
-  <ul>{% for post in site.publicationsreversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  See [publications](/publications/).
   
 Conference presentations 
 ======
@@ -87,7 +85,7 @@ ABBS-International Conference on Biohydrogen and Bioprocesses, Taichung, Taiwan,
 
 Teaching
 ======
-  
+  See [teaching](/teaching/).
   
 Selected awards and honors
 ======
