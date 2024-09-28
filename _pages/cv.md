@@ -71,7 +71,7 @@ article under review).
 
 Publications
 ======
-  See [publications](/publications/).
+  See [Publications](/publications/).
   
 Conference presentations 
 ======
@@ -85,7 +85,7 @@ ABBS-International Conference on Biohydrogen and Bioprocesses, Taichung, Taiwan,
 
 Teaching
 ======
-  See [teaching](/teaching/).
+  See [Teaching](/teaching/).
   
 Selected awards and honors
 ======
