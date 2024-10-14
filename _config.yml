@@ -26,7 +26,7 @@ author:
   pronouns         : "Ph.D. in Materials"  
   bio              : "Research Enthusiast"
   location         : "VN/TW/JP"
-  employer         : "Nagoya University"
+  employer         : #"Nagoya University"
   uri              : # URL
   email            : "pnqhuy78@gmail.com" 
 
